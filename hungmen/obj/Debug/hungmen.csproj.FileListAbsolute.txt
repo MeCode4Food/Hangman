@@ -1,0 +1,9 @@
+c:\users\lck\documents\visual studio 2015\Projects\hungmen\hungmen\bin\Debug\hungmen.exe.config
+C:\Users\LCK\documents\visual studio 2015\Projects\hungmen\hungmen\bin\Debug\hungmen.exe
+C:\Users\LCK\documents\visual studio 2015\Projects\hungmen\hungmen\bin\Debug\hungmen.pdb
+C:\Users\LCK\documents\visual studio 2015\Projects\hungmen\hungmen\obj\Debug\hungmen.csprojResolveAssemblyReference.cache
+C:\Users\LCK\documents\visual studio 2015\Projects\hungmen\hungmen\obj\Debug\hungmen.Form1.resources
+C:\Users\LCK\documents\visual studio 2015\Projects\hungmen\hungmen\obj\Debug\hungmen.Properties.Resources.resources
+C:\Users\LCK\documents\visual studio 2015\Projects\hungmen\hungmen\obj\Debug\hungmen.csproj.GenerateResource.Cache
+C:\Users\LCK\documents\visual studio 2015\Projects\hungmen\hungmen\obj\Debug\hungmen.exe
+C:\Users\LCK\documents\visual studio 2015\Projects\hungmen\hungmen\obj\Debug\hungmen.pdb
